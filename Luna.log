@@ -1,0 +1,51 @@
+[PngImagePlugin.py:197] - 2024-08-08 01:45:55,144 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:197] - 2024-08-08 01:45:55,144 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:197] - 2024-08-08 01:45:55,144 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:197] - 2024-08-08 01:45:55,144 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:197] - 2024-08-08 01:45:55,144 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:197] - 2024-08-08 01:45:55,144 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:197] - 2024-08-08 01:45:55,144 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:197] - 2024-08-08 01:45:55,144 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:197] - 2024-08-08 01:45:55,146 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:197] - 2024-08-08 01:45:55,146 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:197] - 2024-08-08 01:45:55,146 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:197] - 2024-08-08 01:45:55,146 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:197] - 2024-08-08 01:45:55,146 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:197] - 2024-08-08 01:45:55,146 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:197] - 2024-08-08 01:45:55,146 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:197] - 2024-08-08 01:45:55,146 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:197] - 2024-08-08 01:45:55,146 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:197] - 2024-08-08 01:45:55,146 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:197] - 2024-08-08 01:45:55,146 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:197] - 2024-08-08 01:45:55,146 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:197] - 2024-08-08 01:45:55,146 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:197] - 2024-08-08 01:45:55,146 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:197] - 2024-08-08 01:45:55,146 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:197] - 2024-08-08 01:45:55,146 - DEBUG - STREAM b'IDAT' 91 1063
+[builder.py:514] - 2024-08-08 01:46:32,532 - INFO - Retrieved filename: setup
+[builder.py:335] - 2024-08-08 01:46:32,532 - ERROR - Invalid webhook format: 
+[builder.py:821] - 2024-08-08 01:46:32,532 - ERROR - Webhook not valid. Aborting compilation.
+[connectionpool.py:1051] - 2024-08-08 01:47:16,093 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+[connectionpool.py:546] - 2024-08-08 01:47:16,288 - DEBUG - https://discord.com:443 "GET /api/webhooks/1270890974973001782/NNwvXzTKEyPaA8fJLLYSgxkPvhQxd7WZsHO4lrrIJZ0lsYLzLOqHwQNcrcclTLhhaGxj HTTP/11" 200 None
+[builder.py:514] - 2024-08-08 01:47:17,379 - INFO - Retrieved filename: setup
+[connectionpool.py:1051] - 2024-08-08 01:47:17,380 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+[connectionpool.py:546] - 2024-08-08 01:47:17,582 - DEBUG - https://discord.com:443 "GET /api/webhooks/1270890974973001782/NNwvXzTKEyPaA8fJLLYSgxkPvhQxd7WZsHO4lrrIJZ0lsYLzLOqHwQNcrcclTLhhaGxj HTTP/11" 200 None
+[builder.py:514] - 2024-08-08 01:47:17,626 - INFO - Retrieved filename: setup
+[builder.py:573] - 2024-08-08 01:47:17,627 - INFO - Successfully changed config
+[builder.py:491] - 2024-08-08 01:47:17,627 - INFO - Changed filetype: pyinstaller (.exe)
+[builder.py:491] - 2024-08-08 01:47:17,627 - INFO - Changed filetype: pyinstaller (.exe)
+[builder.py:573] - 2024-08-08 01:47:18,091 - INFO - Successfully changed config
+[connectionpool.py:1051] - 2024-08-08 01:47:18,091 - DEBUG - Starting new HTTPS connection (1): github.com:443
+[connectionpool.py:546] - 2024-08-08 01:47:18,287 - DEBUG - https://github.com:443 "GET /upx/upx/releases/download/v4.2.4/upx-4.2.4-win64.zip HTTP/11" 302 0
+[connectionpool.py:1051] - 2024-08-08 01:47:18,288 - DEBUG - Starting new HTTPS connection (1): objects.githubusercontent.com:443
+[connectionpool.py:546] - 2024-08-08 01:47:18,612 - DEBUG - https://objects.githubusercontent.com:443 "GET /github-production-release-asset-2e65be/67031040/8d44b6a4-2c22-4e41-b581-be3e421c744e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20240807%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240807T234723Z&X-Amz-Expires=300&X-Amz-Signature=0b48d6e0848a2d6b950b91dbdc93e10eb1fa0ec7442af94b7d48322896438a99&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=67031040&response-content-disposition=attachment%3B%20filename%3Dupx-4.2.4-win64.zip&response-content-type=application%2Foctet-stream HTTP/11" 200 613368
+[builder.py:861] - 2024-08-08 01:48:22,339 - INFO - Removing MetaData
+[builder.py:879] - 2024-08-08 01:48:22,433 - INFO - Renaming Entry Point
+[builder.py:893] - 2024-08-08 01:48:22,502 - INFO - Adding Certificate
+[builder.py:693] - 2024-08-08 01:48:22,554 - INFO - Successfully compiled setup.exe with pyinstaller
+[builder.py:584] - 2024-08-08 01:48:24,534 - INFO - Successfully pumped file: setup.exe
+[builder.py:758] - 2024-08-08 01:48:24,542 - INFO - Successfully removed directory: ./build
+[builder.py:767] - 2024-08-08 01:48:24,542 - INFO - Successfully removed file: luna.aes
+[builder.py:767] - 2024-08-08 01:48:24,542 - INFO - Successfully removed file: loader-o.py
+[builder.py:767] - 2024-08-08 01:48:24,542 - INFO - Successfully removed file: ./tools/upx.exe
+[builder.py:767] - 2024-08-08 01:48:24,542 - INFO - Successfully removed file: ./setup.exe.spec
